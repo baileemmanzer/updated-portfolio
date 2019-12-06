@@ -1,8 +1,8 @@
-.row {
+/* /* .row {
     width: 100%;
-}
+} */
 
-#navbar {
+/* #navbar {
     width: 100%;
 }
 
@@ -10,12 +10,11 @@
     background: #F9A7B0;
     height: 600px;
     justify-content: center;
-    display:grid;
     color: #F8F8F8;
     margin: 25px 100px 100px 75px;
-}
+} */
 
-.row3 {
+/* .row3 {
     background: #F9A7B0;
     width: 100%;
     height: 700px;
@@ -23,9 +22,9 @@
     padding: 25px;
     margin: 50px auto;
     color: #F8F8F8;
-}
+} */
 
-.container-fluid {
+/* .container-fluid {
     background: #F9A7B0;
     width:100%;
     font-family: Arial, Helvetica, sans-serif;
@@ -42,7 +41,7 @@ h2 {
 
 p {
     padding-left: 25px;
-}
+} */
 
 /* #linkedInButton {
     padding-left: 100px;
@@ -55,3 +54,23 @@ p {
 #emailButton {
     padding-left: 100px;
 } */
+
+/* #repos {
+    margin: 50px;
+}
+
+.col1 {
+    margin: 50px;
+}
+
+.col2 {
+    margin: 50px;
+}
+
+.col3 {
+    margin: 50px;
+}
+
+.col4 {
+    margin: 50px;
+} */ */
