@@ -1,12 +1,12 @@
 # updated-portfolio
 
-##Link to Portfolio
+## Link to Portfolio
 
 
-##About
+## About
 Updated Porfolio: Recreated portfolio from my portfolio created in the beginning of the course. 
 
-##Tools Used
+## Tools Used
 1. Bootstrap
 2. HTML
 3. CSS
