@@ -25,6 +25,11 @@ p {
     margin: 50px;
 }
 
-img {
+/* img {
     width: 100%;
-}
+} */
+
+img:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+  }
